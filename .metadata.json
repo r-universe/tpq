@@ -1,0 +1,14 @@
+[
+  {
+    "package": "catmap",
+    "oncran": true
+  },
+  {
+    "package": "peakRAM",
+    "oncran": true
+  },
+  {
+    "package": "propr",
+    "oncran": true
+  }
+]
