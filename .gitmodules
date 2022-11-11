@@ -13,8 +13,3 @@
 	url = https://github.com/tpq/peakram
 	shallow = true
 	registered = true
-[submodule "propr"]
-	path = propr
-	url = https://github.com/tpq/propr
-	shallow = true
-	registered = true
