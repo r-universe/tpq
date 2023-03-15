@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "peakRAM"]
-	path = peakRAM
-	url = https://github.com/tpq/peakram
-	shallow = true
-	registered = true
 [submodule "catmap"]
 	path = catmap
 	url = https://github.com/tpq/catmap
+	shallow = true
+	registered = true
+[submodule "peakRAM"]
+	path = peakRAM
+	url = https://github.com/tpq/peakram
 	shallow = true
 	registered = true
