@@ -1,10 +1,10 @@
 [
   {
-    "package": "catmap",
+    "package": "peakRAM",
     "oncran": true
   },
   {
-    "package": "peakRAM",
+    "package": "catmap",
     "oncran": true
   }
 ]
