@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "catmap"]
-	path = catmap
-	url = https://github.com/tpq/catmap
 [submodule "peakRAM"]
 	path = peakRAM
 	url = https://github.com/tpq/peakram
